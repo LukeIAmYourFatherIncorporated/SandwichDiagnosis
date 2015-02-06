@@ -1,5 +1,8 @@
+package com.iamyourfather.luke.sandwichdiagnosisapp;
+import android.view.Menu;
+
 import java.io.File;
-import java.util.*;
+import java.util.Scanner;
 /*
  * This program diagnoses your sandwich cravings and provides you with a recipe
  * for the desired sandwich. The main method contains the sandwich quiz and 
